@@ -1,0 +1,9 @@
+.p-rating-cancel-item {
+  display: none;
+}
+
+input.ng-invalid {
+  border: 2px solid #ff4d4f;
+  box-shadow: 0 0 5px rgba(255, 77, 79, 0.5); 
+  transition: border-color 0.3s, box-shadow 0.3s; 
+}
